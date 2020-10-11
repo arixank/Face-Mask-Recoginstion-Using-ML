@@ -4,7 +4,7 @@ Youtube Video Link :
 https://youtu.be/2r20YacDdv8
 ****************************************************************************
 Written Article (Blog):
-Link: 
+Link: https://arixank.blogspot.com/2020/10/lets-build-face-mask-recognition.html
 
 Required Files :
 Image Files for training :  https://drive.google.com/drive/folders/1ZrbepZlcf_NRytxzbDvS-WKK59uC-Dg3?usp=sharing
